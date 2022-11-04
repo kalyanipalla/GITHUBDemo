@@ -1,0 +1,21 @@
+300	Infosys Certified BI SSIS 2012 Professional - Basic	Kalyani Palla	Starter	Proficient	Learner	completed	18-Jan-22	20-Jan-22	Certification
+301	Infosys Certified BI SSRS 2012 Professional - Basic	Kalyani Palla	Starter	Proficient	Learner	Completed	7-Feb-22	14-Feb-22	Certification
+302	Infosys Global Agile Certification	Kalyani Palla	Starter	Proficient	Learner	Attended	27-Jan-22	13-Feb-22	Certification
+303	Infosys certifired Business Intelligence Associate	Kalyani Palla	Starter	Proficient	Learner	Attended	24-Jan-22	25-Jan-22	Certification
+304	Introduction to biling in Utilities	Kalyani Palla	Starter	Proficient	Learner	Completed	27-Jan-22	30-Jan-22	lex
+305	EUS-L100-Energy -Intro to Energy	Kalyani Palla	Starter	Proficient	Learner	Completed	24-Jan-22	27-Jan-22	lex
+306	Intorduction to AMI Utilities	Kalyani Palla	Starter	Proficient	Learner	Completed	30-Jan-22	2-Feb-22	lex
+
+
+
+334	Infosys certified BI SSRS 2012 Professional - Basic	Kalyani Palla	starter	Learner	learner	completed	10-Feb-22	14-Feb-22	Certification		
+335	Infosys Certified NI SSIS 2012 proffesional- Basic	Kalyani Palla	Starter	learner	learner	completed	5-Feb-22	14-Feb-22	Certification		
+336	Infosys Global agile certification	Kalyani Palla	Starter	learner	Leaner	Completed	7-Mar-22	29-Apr-22	certification		
+337	Infosys certified business intelligence Associate	Kalyani Palla	Starter	Learner	learner	planned	21-Mar-22	16-May-22	certification		
+338	AZ-900: Microsoft Azure Fundamentals	Kalyani Palla	Starter	Learner	Learner	Completed	28-Mar-22	29-Apr-22	certification		
+339	Email Writing skills	Kalyani Palla	Starter	Learner	Learner	planned	13-Aug-22	19-Aug-22	Lex		
+340	Business English 	Kalyani Palla	starter	Learner	Learner	Completed	9-Aug-22	20-Aug-22	lex		
+341	Email etiquette	Kalyani Palla	starter	Learner	Learner	Completed	14-Aug-22	19-Aug-22	Lex		
+342	EUS-L100-Energy-Intro to Energy	Kalyani Palla	starter	Learner	Learner	Completed	25-Feb-22	10-Mar-22	Lex		
+343	Introduction to Billing in Utilities	kalyani Palla	starter	Learner	Learner	Completed	25-Feb-22	21-Mar-22	Lex		
+344	Introduction to AMI in Utilities	Kalyani Palla	starter	Learner	Learner	Completed	27-Feb-22	25-Mar-22	Lex		
